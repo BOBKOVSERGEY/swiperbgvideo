@@ -1,0 +1,1133 @@
+.bg-deluge, .bg-butterfly-bush, .navbar-inverse, .context-dark, .swiper-slide-caption, .bg-deluge .btn-link, .bg-butterfly-bush .btn-link, .navbar-inverse .btn-link, .context-dark .btn-link, .swiper-slide-caption .btn-link, .bg-deluge .form-label, .bg-butterfly-bush .form-label, .navbar-inverse .form-label, .context-dark .form-label, .swiper-slide-caption .form-label, .bg-deluge .form-label-outside.focus, .bg-butterfly-bush .form-label-outside.focus, .navbar-inverse .form-label-outside.focus, .context-dark .form-label-outside.focus, .swiper-slide-caption .form-label-outside.focus,
+.bg-deluge .select2-container--bootstrap .select2-selection--single .select2-selection__rendered,
+.bg-butterfly-bush .select2-container--bootstrap .select2-selection--single .select2-selection__rendered,
+.navbar-inverse .select2-container--bootstrap .select2-selection--single .select2-selection__rendered,
+.context-dark .select2-container--bootstrap .select2-selection--single .select2-selection__rendered,
+.swiper-slide-caption .select2-container--bootstrap .select2-selection--single .select2-selection__rendered,
+.bg-deluge .select2-container--bootstrap .select2-selection,
+.bg-butterfly-bush .select2-container--bootstrap .select2-selection,
+.navbar-inverse .select2-container--bootstrap .select2-selection,
+.context-dark .select2-container--bootstrap .select2-selection,
+.swiper-slide-caption .select2-container--bootstrap .select2-selection,
+.bg-deluge h1,
+.bg-butterfly-bush h1,
+.navbar-inverse h1,
+.context-dark h1,
+.swiper-slide-caption h1, .bg-deluge .h1, .bg-butterfly-bush .h1, .navbar-inverse .h1, .context-dark .h1, .swiper-slide-caption .h1, .bg-deluge h2, .bg-butterfly-bush h2, .navbar-inverse h2, .context-dark h2, .swiper-slide-caption h2, .bg-deluge .h2, .bg-butterfly-bush .h2, .navbar-inverse .h2, .context-dark .h2, .swiper-slide-caption .h2, .bg-deluge h3, .bg-butterfly-bush h3, .navbar-inverse h3, .context-dark h3, .swiper-slide-caption h3, .bg-deluge .h3, .bg-butterfly-bush .h3, .navbar-inverse .h3, .context-dark .h3, .swiper-slide-caption .h3, .bg-deluge h4, .bg-butterfly-bush h4, .navbar-inverse h4, .context-dark h4, .swiper-slide-caption h4, .bg-deluge .h4, .bg-butterfly-bush .h4, .navbar-inverse .h4, .context-dark .h4, .swiper-slide-caption .h4, .bg-deluge h5, .bg-butterfly-bush h5, .navbar-inverse h5, .context-dark h5, .swiper-slide-caption h5, .bg-deluge .h5, .bg-butterfly-bush .h5, .navbar-inverse .h5, .context-dark .h5, .swiper-slide-caption .h5, .bg-deluge h6, .bg-butterfly-bush h6, .navbar-inverse h6, .context-dark h6, .swiper-slide-caption h6, .bg-deluge .h6, .bg-butterfly-bush .h6, .navbar-inverse .h6, .context-dark .h6, .swiper-slide-caption .h6 {
+    color: #ffffff;
+}
+
+.bg-deluge .form-label.auto-fill, .bg-butterfly-bush .form-label.auto-fill, .navbar-inverse .form-label.auto-fill, .context-dark .form-label.auto-fill, .swiper-slide-caption .form-label.auto-fill {
+    color: #212121;
+}
+
+.bg-deluge .countdown-custom .countdown-amount, .bg-butterfly-bush .countdown-custom .countdown-amount, .navbar-inverse .countdown-custom .countdown-amount, .context-dark .countdown-custom .countdown-amount, .swiper-slide-caption .countdown-custom .countdown-amount, .bg-deluge .countdown-custom .countdown-period, .bg-butterfly-bush .countdown-custom .countdown-period, .navbar-inverse .countdown-custom .countdown-period, .context-dark .countdown-custom .countdown-period, .swiper-slide-caption .countdown-custom .countdown-period {
+    color: #ffffff;
+}
+
+.bg-deluge .responsive-tabs-dashed .resp-tabs-list > li, .bg-butterfly-bush .responsive-tabs-dashed .resp-tabs-list > li, .navbar-inverse .responsive-tabs-dashed .resp-tabs-list > li, .context-dark .responsive-tabs-dashed .resp-tabs-list > li, .swiper-slide-caption .responsive-tabs-dashed .resp-tabs-list > li {
+    color: #f2f2f2;
+}
+
+.bg-deluge .responsive-tabs-dashed .resp-tabs-list > li.resp-tab-active, .bg-butterfly-bush .responsive-tabs-dashed .resp-tabs-list > li.resp-tab-active, .navbar-inverse .responsive-tabs-dashed .resp-tabs-list > li.resp-tab-active, .context-dark .responsive-tabs-dashed .resp-tabs-list > li.resp-tab-active, .swiper-slide-caption .responsive-tabs-dashed .resp-tabs-list > li.resp-tab-active, .bg-deluge .responsive-tabs-dashed .resp-tabs-list > li:hover, .bg-butterfly-bush .responsive-tabs-dashed .resp-tabs-list > li:hover, .navbar-inverse .responsive-tabs-dashed .resp-tabs-list > li:hover, .context-dark .responsive-tabs-dashed .resp-tabs-list > li:hover, .swiper-slide-caption .responsive-tabs-dashed .resp-tabs-list > li:hover {
+    color: #ffffff;
+}
+
+.bg-deluge .responsive-tabs-dashed .resp-tabs-list > li + li:before, .bg-butterfly-bush .responsive-tabs-dashed .resp-tabs-list > li + li:before, .navbar-inverse .responsive-tabs-dashed .resp-tabs-list > li + li:before, .context-dark .responsive-tabs-dashed .resp-tabs-list > li + li:before, .swiper-slide-caption .responsive-tabs-dashed .resp-tabs-list > li + li:before {
+    background: #f2f2f2;
+}
+
+.bg-deluge .form-group > .form-control, .bg-butterfly-bush .form-group > .form-control, .navbar-inverse .form-group > .form-control, .context-dark .form-group > .form-control, .swiper-slide-caption .form-group > .form-control {
+    color: #ffffff;
+}
+
+.bg-deluge .form-group > .form-control::-webkit-input-placeholder, .bg-butterfly-bush .form-group > .form-control::-webkit-input-placeholder, .navbar-inverse .form-group > .form-control::-webkit-input-placeholder, .context-dark .form-group > .form-control::-webkit-input-placeholder, .swiper-slide-caption .form-group > .form-control::-webkit-input-placeholder {
+    color: #ffffff;
+}
+
+.bg-deluge .form-group > .form-control::-moz-placeholder, .bg-butterfly-bush .form-group > .form-control::-moz-placeholder, .navbar-inverse .form-group > .form-control::-moz-placeholder, .context-dark .form-group > .form-control::-moz-placeholder, .swiper-slide-caption .form-group > .form-control::-moz-placeholder {
+    color: #ffffff;
+}
+
+.bg-deluge .form-group > .form-control:-ms-input-placeholder, .bg-butterfly-bush .form-group > .form-control:-ms-input-placeholder, .navbar-inverse .form-group > .form-control:-ms-input-placeholder, .context-dark .form-group > .form-control:-ms-input-placeholder, .swiper-slide-caption .form-group > .form-control:-ms-input-placeholder {
+    color: #ffffff;
+}
+
+.bg-deluge .form-group > .form-control:-moz-placeholder, .bg-butterfly-bush .form-group > .form-control:-moz-placeholder, .navbar-inverse .form-group > .form-control:-moz-placeholder, .context-dark .form-group > .form-control:-moz-placeholder, .swiper-slide-caption .form-group > .form-control:-moz-placeholder {
+    color: #ffffff;
+}
+
+.bg-deluge .btn-default, .bg-butterfly-bush .btn-default, .navbar-inverse .btn-default, .context-dark .btn-default, .swiper-slide-caption .btn-default, .bg-deluge .pagination-classic > li + li:not(:last-child) > a, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a, .context-dark .pagination-classic > li + li:not(:last-child) > a, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span,
+.context-dark .pagination-classic > li + li:not(:last-child) > span,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span {
+    color: #ffffff;
+    background-color: transparent;
+    border-color: #ffffff;
+}
+
+.bg-deluge .btn-default:focus, .bg-butterfly-bush .btn-default:focus, .navbar-inverse .btn-default:focus, .context-dark .btn-default:focus, .swiper-slide-caption .btn-default:focus, .bg-deluge .pagination-classic > li + li:not(:last-child) > a:focus, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a:focus, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a:focus, .context-dark .pagination-classic > li + li:not(:last-child) > a:focus, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a:focus,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span:focus,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span:focus,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span:focus,
+.context-dark .pagination-classic > li + li:not(:last-child) > span:focus,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span:focus, .bg-deluge .btn-default.focus, .bg-butterfly-bush .btn-default.focus, .navbar-inverse .btn-default.focus, .context-dark .btn-default.focus, .swiper-slide-caption .btn-default.focus, .bg-deluge .pagination-classic > li + li:not(:last-child) > a.focus, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.focus, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.focus, .context-dark .pagination-classic > li + li:not(:last-child) > a.focus, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.focus,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span.focus,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.focus,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span.focus,
+.context-dark .pagination-classic > li + li:not(:last-child) > span.focus,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.focus, .bg-deluge .btn-default:hover, .bg-butterfly-bush .btn-default:hover, .navbar-inverse .btn-default:hover, .context-dark .btn-default:hover, .swiper-slide-caption .btn-default:hover, .bg-deluge .pagination-classic > li + li:not(:last-child) > a:hover, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a:hover, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a:hover, .context-dark .pagination-classic > li + li:not(:last-child) > a:hover, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a:hover,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span:hover,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span:hover,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span:hover,
+.context-dark .pagination-classic > li + li:not(:last-child) > span:hover,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span:hover, .bg-deluge .btn-default:active, .bg-butterfly-bush .btn-default:active, .navbar-inverse .btn-default:active, .context-dark .btn-default:active, .swiper-slide-caption .btn-default:active, .bg-deluge .pagination-classic > li + li:not(:last-child) > a:active, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a:active, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a:active, .context-dark .pagination-classic > li + li:not(:last-child) > a:active, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a:active,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span:active,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span:active,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span:active,
+.context-dark .pagination-classic > li + li:not(:last-child) > span:active,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span:active, .bg-deluge .btn-default.active, .bg-butterfly-bush .btn-default.active, .navbar-inverse .btn-default.active, .context-dark .btn-default.active, .swiper-slide-caption .btn-default.active, .bg-deluge .pagination-classic > li + li:not(:last-child) > a.active, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.active, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.active, .context-dark .pagination-classic > li + li:not(:last-child) > a.active, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.active,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span.active,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.active,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span.active,
+.context-dark .pagination-classic > li + li:not(:last-child) > span.active,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.active,
+.open > .bg-deluge .btn-default.dropdown-toggle,
+.open > .bg-butterfly-bush .btn-default.dropdown-toggle,
+.open > .navbar-inverse .btn-default.dropdown-toggle,
+.open > .context-dark .btn-default.dropdown-toggle,
+.open > .swiper-slide-caption .btn-default.dropdown-toggle,
+.open > .bg-deluge .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle,
+.open > .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle,
+.open > .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle,
+.open > .context-dark .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle,
+.open > .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle,
+.open > .bg-deluge .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle,
+.open > .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle,
+.open > .navbar-inverse .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle,
+.open > .context-dark .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle,
+.open > .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle {
+    color: #434345;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.bg-deluge .btn-default:active, .bg-butterfly-bush .btn-default:active, .navbar-inverse .btn-default:active, .context-dark .btn-default:active, .swiper-slide-caption .btn-default:active, .bg-deluge .pagination-classic > li + li:not(:last-child) > a:active, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a:active, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a:active, .context-dark .pagination-classic > li + li:not(:last-child) > a:active, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a:active,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span:active,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span:active,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span:active,
+.context-dark .pagination-classic > li + li:not(:last-child) > span:active,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span:active, .bg-deluge .btn-default.active, .bg-butterfly-bush .btn-default.active, .navbar-inverse .btn-default.active, .context-dark .btn-default.active, .swiper-slide-caption .btn-default.active, .bg-deluge .pagination-classic > li + li:not(:last-child) > a.active, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.active, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.active, .context-dark .pagination-classic > li + li:not(:last-child) > a.active, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.active,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span.active,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.active,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span.active,
+.context-dark .pagination-classic > li + li:not(:last-child) > span.active,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.active,
+.open > .bg-deluge .btn-default.dropdown-toggle,
+.open > .bg-butterfly-bush .btn-default.dropdown-toggle,
+.open > .navbar-inverse .btn-default.dropdown-toggle,
+.open > .context-dark .btn-default.dropdown-toggle,
+.open > .swiper-slide-caption .btn-default.dropdown-toggle,
+.open > .bg-deluge .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle,
+.open > .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle,
+.open > .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle,
+.open > .context-dark .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle,
+.open > .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle,
+.open > .bg-deluge .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle,
+.open > .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle,
+.open > .navbar-inverse .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle,
+.open > .context-dark .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle,
+.open > .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle {
+    box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+.bg-deluge .btn-default:active:hover, .bg-butterfly-bush .btn-default:active:hover, .navbar-inverse .btn-default:active:hover, .context-dark .btn-default:active:hover, .swiper-slide-caption .btn-default:active:hover, .bg-deluge .pagination-classic > li + li:not(:last-child) > a:active:hover, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a:active:hover, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a:active:hover, .context-dark .pagination-classic > li + li:not(:last-child) > a:active:hover, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a:active:hover,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span:active:hover,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span:active:hover,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span:active:hover,
+.context-dark .pagination-classic > li + li:not(:last-child) > span:active:hover,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span:active:hover, .bg-deluge .btn-default:active:focus, .bg-butterfly-bush .btn-default:active:focus, .navbar-inverse .btn-default:active:focus, .context-dark .btn-default:active:focus, .swiper-slide-caption .btn-default:active:focus, .bg-deluge .pagination-classic > li + li:not(:last-child) > a:active:focus, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a:active:focus, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a:active:focus, .context-dark .pagination-classic > li + li:not(:last-child) > a:active:focus, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a:active:focus,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span:active:focus,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span:active:focus,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span:active:focus,
+.context-dark .pagination-classic > li + li:not(:last-child) > span:active:focus,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span:active:focus, .bg-deluge .btn-default:active.focus, .bg-butterfly-bush .btn-default:active.focus, .navbar-inverse .btn-default:active.focus, .context-dark .btn-default:active.focus, .swiper-slide-caption .btn-default:active.focus, .bg-deluge .pagination-classic > li + li:not(:last-child) > a:active.focus, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a:active.focus, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a:active.focus, .context-dark .pagination-classic > li + li:not(:last-child) > a:active.focus, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a:active.focus,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span:active.focus,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span:active.focus,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span:active.focus,
+.context-dark .pagination-classic > li + li:not(:last-child) > span:active.focus,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span:active.focus, .bg-deluge .btn-default.active:hover, .bg-butterfly-bush .btn-default.active:hover, .navbar-inverse .btn-default.active:hover, .context-dark .btn-default.active:hover, .swiper-slide-caption .btn-default.active:hover, .bg-deluge .pagination-classic > li + li:not(:last-child) > a.active:hover, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.active:hover, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.active:hover, .context-dark .pagination-classic > li + li:not(:last-child) > a.active:hover, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.active:hover,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span.active:hover,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.active:hover,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span.active:hover,
+.context-dark .pagination-classic > li + li:not(:last-child) > span.active:hover,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.active:hover, .bg-deluge .btn-default.active:focus, .bg-butterfly-bush .btn-default.active:focus, .navbar-inverse .btn-default.active:focus, .context-dark .btn-default.active:focus, .swiper-slide-caption .btn-default.active:focus, .bg-deluge .pagination-classic > li + li:not(:last-child) > a.active:focus, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.active:focus, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.active:focus, .context-dark .pagination-classic > li + li:not(:last-child) > a.active:focus, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.active:focus,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span.active:focus,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.active:focus,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span.active:focus,
+.context-dark .pagination-classic > li + li:not(:last-child) > span.active:focus,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.active:focus, .bg-deluge .btn-default.active.focus, .bg-butterfly-bush .btn-default.active.focus, .navbar-inverse .btn-default.active.focus, .context-dark .btn-default.active.focus, .swiper-slide-caption .btn-default.active.focus, .bg-deluge .pagination-classic > li + li:not(:last-child) > a.active.focus, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.active.focus, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.active.focus, .context-dark .pagination-classic > li + li:not(:last-child) > a.active.focus, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.active.focus,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span.active.focus,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.active.focus,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span.active.focus,
+.context-dark .pagination-classic > li + li:not(:last-child) > span.active.focus,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.active.focus,
+.open > .bg-deluge .btn-default.dropdown-toggle:hover,
+.open > .bg-butterfly-bush .btn-default.dropdown-toggle:hover,
+.open > .navbar-inverse .btn-default.dropdown-toggle:hover,
+.open > .context-dark .btn-default.dropdown-toggle:hover,
+.open > .swiper-slide-caption .btn-default.dropdown-toggle:hover,
+.open > .bg-deluge .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle:hover,
+.open > .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle:hover,
+.open > .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle:hover,
+.open > .context-dark .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle:hover,
+.open > .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle:hover,
+.open > .bg-deluge .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle:hover,
+.open > .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle:hover,
+.open > .navbar-inverse .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle:hover,
+.open > .context-dark .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle:hover,
+.open > .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle:hover,
+.open > .bg-deluge .btn-default.dropdown-toggle:focus,
+.open > .bg-butterfly-bush .btn-default.dropdown-toggle:focus,
+.open > .navbar-inverse .btn-default.dropdown-toggle:focus,
+.open > .context-dark .btn-default.dropdown-toggle:focus,
+.open > .swiper-slide-caption .btn-default.dropdown-toggle:focus,
+.open > .bg-deluge .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle:focus,
+.open > .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle:focus,
+.open > .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle:focus,
+.open > .context-dark .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle:focus,
+.open > .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle:focus,
+.open > .bg-deluge .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle:focus,
+.open > .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle:focus,
+.open > .navbar-inverse .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle:focus,
+.open > .context-dark .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle:focus,
+.open > .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle:focus,
+.open > .bg-deluge .btn-default.dropdown-toggle.focus,
+.open > .bg-butterfly-bush .btn-default.dropdown-toggle.focus,
+.open > .navbar-inverse .btn-default.dropdown-toggle.focus,
+.open > .context-dark .btn-default.dropdown-toggle.focus,
+.open > .swiper-slide-caption .btn-default.dropdown-toggle.focus,
+.open > .bg-deluge .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle.focus,
+.open > .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle.focus,
+.open > .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle.focus,
+.open > .context-dark .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle.focus,
+.open > .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.dropdown-toggle.focus,
+.open > .bg-deluge .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle.focus,
+.open > .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle.focus,
+.open > .navbar-inverse .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle.focus,
+.open > .context-dark .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle.focus,
+.open > .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.dropdown-toggle.focus {
+    color: #434345;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.bg-deluge .btn-default.disabled, .bg-butterfly-bush .btn-default.disabled, .navbar-inverse .btn-default.disabled, .context-dark .btn-default.disabled, .swiper-slide-caption .btn-default.disabled, .bg-deluge .pagination-classic > li + li:not(:last-child) > a.disabled, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.disabled, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.disabled, .context-dark .pagination-classic > li + li:not(:last-child) > a.disabled, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.disabled,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span.disabled,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.disabled,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span.disabled,
+.context-dark .pagination-classic > li + li:not(:last-child) > span.disabled,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.disabled, .bg-deluge .btn-default[disabled], .bg-butterfly-bush .btn-default[disabled], .navbar-inverse .btn-default[disabled], .context-dark .btn-default[disabled], .swiper-slide-caption .btn-default[disabled], .bg-deluge .pagination-classic > li + li:not(:last-child) > a[disabled], .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a[disabled], .navbar-inverse .pagination-classic > li + li:not(:last-child) > a[disabled], .context-dark .pagination-classic > li + li:not(:last-child) > a[disabled], .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a[disabled],
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span[disabled],
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span[disabled],
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span[disabled],
+.context-dark .pagination-classic > li + li:not(:last-child) > span[disabled],
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span[disabled],
+fieldset[disabled] .bg-deluge .btn-default,
+fieldset[disabled] .bg-butterfly-bush .btn-default,
+fieldset[disabled] .navbar-inverse .btn-default,
+fieldset[disabled] .context-dark .btn-default,
+fieldset[disabled] .swiper-slide-caption .btn-default,
+fieldset[disabled] .bg-deluge .pagination-classic > li + li:not(:last-child) > a,
+fieldset[disabled] .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a,
+fieldset[disabled] .navbar-inverse .pagination-classic > li + li:not(:last-child) > a,
+fieldset[disabled] .context-dark .pagination-classic > li + li:not(:last-child) > a,
+fieldset[disabled] .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a,
+fieldset[disabled] .bg-deluge .pagination-classic > li + li:not(:last-child) > span,
+fieldset[disabled] .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span,
+fieldset[disabled] .navbar-inverse .pagination-classic > li + li:not(:last-child) > span,
+fieldset[disabled] .context-dark .pagination-classic > li + li:not(:last-child) > span,
+fieldset[disabled] .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span {
+    pointer-events: none;
+    opacity: .5;
+}
+
+.bg-deluge .btn-default .badge, .bg-butterfly-bush .btn-default .badge, .navbar-inverse .btn-default .badge, .context-dark .btn-default .badge, .swiper-slide-caption .btn-default .badge, .bg-deluge .pagination-classic > li + li:not(:last-child) > a .badge, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a .badge, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a .badge, .context-dark .pagination-classic > li + li:not(:last-child) > a .badge, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a .badge, .bg-deluge .pagination-classic > li + li:not(:last-child) > span .badge, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span .badge, .navbar-inverse .pagination-classic > li + li:not(:last-child) > span .badge, .context-dark .pagination-classic > li + li:not(:last-child) > span .badge, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span .badge {
+    color: transparent;
+    background-color: #ffffff;
+}
+
+.bg-deluge .btn-default.btn-anis-effect:before, .bg-butterfly-bush .btn-default.btn-anis-effect:before, .navbar-inverse .btn-default.btn-anis-effect:before, .context-dark .btn-default.btn-anis-effect:before, .swiper-slide-caption .btn-default.btn-anis-effect:before, .bg-deluge .pagination-classic > li + li:not(:last-child) > a.btn-anis-effect:before, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.btn-anis-effect:before, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.btn-anis-effect:before, .context-dark .pagination-classic > li + li:not(:last-child) > a.btn-anis-effect:before, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.btn-anis-effect:before,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span.btn-anis-effect:before,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.btn-anis-effect:before,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span.btn-anis-effect:before,
+.context-dark .pagination-classic > li + li:not(:last-child) > span.btn-anis-effect:before,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.btn-anis-effect:before, .bg-deluge .btn-default.btn-anis-effect:after, .bg-butterfly-bush .btn-default.btn-anis-effect:after, .navbar-inverse .btn-default.btn-anis-effect:after, .context-dark .btn-default.btn-anis-effect:after, .swiper-slide-caption .btn-default.btn-anis-effect:after, .bg-deluge .pagination-classic > li + li:not(:last-child) > a.btn-anis-effect:after, .bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > a.btn-anis-effect:after, .navbar-inverse .pagination-classic > li + li:not(:last-child) > a.btn-anis-effect:after, .context-dark .pagination-classic > li + li:not(:last-child) > a.btn-anis-effect:after, .swiper-slide-caption .pagination-classic > li + li:not(:last-child) > a.btn-anis-effect:after,
+.bg-deluge .pagination-classic > li + li:not(:last-child) > span.btn-anis-effect:after,
+.bg-butterfly-bush .pagination-classic > li + li:not(:last-child) > span.btn-anis-effect:after,
+.navbar-inverse .pagination-classic > li + li:not(:last-child) > span.btn-anis-effect:after,
+.context-dark .pagination-classic > li + li:not(:last-child) > span.btn-anis-effect:after,
+.swiper-slide-caption .pagination-classic > li + li:not(:last-child) > span.btn-anis-effect:after {
+    background: #ffffff;
+}
+
+.bg-deluge .owl-carousel .owl-prev, .bg-butterfly-bush .owl-carousel .owl-prev, .navbar-inverse .owl-carousel .owl-prev, .context-dark .owl-carousel .owl-prev, .swiper-slide-caption .owl-carousel .owl-prev,
+.bg-deluge .owl-carousel .owl-next,
+.bg-butterfly-bush .owl-carousel .owl-next,
+.navbar-inverse .owl-carousel .owl-next,
+.context-dark .owl-carousel .owl-next,
+.swiper-slide-caption .owl-carousel .owl-next {
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+.bg-deluge .counter-type-1 .divider, .bg-butterfly-bush .counter-type-1 .divider, .navbar-inverse .counter-type-1 .divider, .context-dark .counter-type-1 .divider, .swiper-slide-caption .counter-type-1 .divider {
+    background: #ffffff;
+}
+
+.bg-deluge .form-control-impressed, .bg-butterfly-bush .form-control-impressed, .navbar-inverse .form-control-impressed, .context-dark .form-control-impressed, .swiper-slide-caption .form-control-impressed {
+    background: #191919;
+}
+
+.bg-deluge .contact-info dl dd a, .bg-butterfly-bush .contact-info dl dd a, .navbar-inverse .contact-info dl dd a, .context-dark .contact-info dl dd a, .swiper-slide-caption .contact-info dl dd a, .bg-deluge .contact-info dl dd a:hover, .bg-butterfly-bush .contact-info dl dd a:hover, .navbar-inverse .contact-info dl dd a:hover, .context-dark .contact-info dl dd a:hover, .swiper-slide-caption .contact-info dl dd a:hover {
+    color: #9b9b9b;
+}
+
+.bg-deluge .thumbnail-classic-caption, .bg-butterfly-bush .thumbnail-classic-caption, .navbar-inverse .thumbnail-classic-caption, .context-dark .thumbnail-classic-caption, .swiper-slide-caption .thumbnail-classic-caption {
+    color: #434345;
+}
+
+.bg-deluge .thumbnail-classic-title, .bg-butterfly-bush .thumbnail-classic-title, .navbar-inverse .thumbnail-classic-title, .context-dark .thumbnail-classic-title, .swiper-slide-caption .thumbnail-classic-title {
+    color: #434345;
+}
+
+.bg-deluge .has-error .form-validation, .bg-butterfly-bush .has-error .form-validation, .navbar-inverse .has-error .form-validation, .context-dark .has-error .form-validation, .swiper-slide-caption .has-error .form-validation {
+    color: #fa8282;
+}
+
+@media (min-width: 768px) {
+    .bg-deluge .form-label-outside.auto-fill, .bg-butterfly-bush .form-label-outside.auto-fill, .navbar-inverse .form-label-outside.auto-fill, .context-dark .form-label-outside.auto-fill, .swiper-slide-caption .form-label-outside.auto-fill {
+        color: #ffffff;
+    }
+}
+
+@media (min-width: 1200px) {
+    .bg-deluge .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list, .bg-butterfly-bush .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list, .navbar-inverse .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list, .context-dark .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list, .swiper-slide-caption .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list {
+        border-left-color: #9b9b9b;
+    }
+    .bg-deluge .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a, .bg-butterfly-bush .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a, .navbar-inverse .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a, .context-dark .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a, .swiper-slide-caption .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a {
+        color: #d9d9d9;
+    }
+    .bg-deluge .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a:after, .bg-butterfly-bush .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a:after, .navbar-inverse .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a:after, .context-dark .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a:after, .swiper-slide-caption .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a:after {
+        background: #ffffff;
+    }
+    .bg-deluge .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a:hover, .bg-butterfly-bush .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a:hover, .navbar-inverse .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a:hover, .context-dark .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a:hover, .swiper-slide-caption .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a:hover, .bg-deluge .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a.active, .bg-butterfly-bush .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a.active, .navbar-inverse .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a.active, .context-dark .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a.active, .swiper-slide-caption .isotope-filters.isotope-filter-collapse-lg .isotope-filters-list > li > a.active {
+        color: #ffffff;
+    }
+}
+
+
+.swiper-container {
+    height: 100vh;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    /* Fix of Webkit flickering */
+    z-index: 1;
+}
+
+.swiper-container-no-flexbox .swiper-slide {
+    float: left;
+}
+
+.swiper-container-vertical > .swiper-wrapper {
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -ms-flex-direction: column;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+
+.swiper-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    -ms-transition-property: -ms-transform;
+    transition-property: transform;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.swiper-container-android .swiper-slide,
+.swiper-wrapper {
+    -webkit-transform: translate3d(0px, 0, 0);
+    -moz-transform: translate3d(0px, 0, 0);
+    -o-transform: translate(0px, 0px);
+    -ms-transform: translate3d(0px, 0, 0);
+    transform: translate3d(0px, 0, 0);
+}
+
+.swiper-container-multirow > .swiper-wrapper {
+    -webkit-box-lines: multiple;
+    -moz-box-lines: multiple;
+    -ms-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.swiper-container-free-mode > .swiper-wrapper {
+    -webkit-transition-timing-function: ease-out;
+    -moz-transition-timing-function: ease-out;
+    -ms-transition-timing-function: ease-out;
+    -o-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+    margin: 0 auto;
+}
+
+.swiper-slide {
+    -webkit-flex-shrink: 0;
+    -ms-flex: 0 0 auto;
+    flex-shrink: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.swiper-slide:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background: rgba(25, 25, 25, 0.2);
+    transition: 1.2s;
+    transition-delay: 0.6s;
+    z-index: 1;
+}
+
+.swiper-slide .rd-video.rd-video-bg {
+    height: 100%;
+    z-index: auto;
+}
+
+.swiper-slide .bg-vide {
+    height: 100%;
+    z-index: auto;
+}
+
+.swiper-slide .swiper-caption {
+    position: relative;
+    z-index: 9;
+}
+
+.swiper-container .no-transition {
+    transition: 0s;
+}
+
+/* a11y */
+.swiper-container .swiper-notification {
+    position: absolute;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    opacity: 0;
+    z-index: -1000;
+}
+
+/* IE10 Windows Phone 8 Fixes */
+.swiper-wp8-horizontal {
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+}
+
+.swiper-wp8-vertical {
+    -ms-touch-action: pan-x;
+    touch-action: pan-x;
+}
+
+/* Arrows */
+.swiper-button-prev,
+.swiper-button-next {
+    display: none;
+    position: absolute;
+    top: 50%;
+    width: 46px;
+    height: 46px;
+    line-height: 46px;
+    font-size: 46px;
+    text-align: center;
+    margin-top: -23px;
+    z-index: 10;
+    cursor: pointer;
+    opacity: 1;
+    color: #ffffff;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+    opacity: 1;
+}
+
+@media (min-width: 992px) {
+    .swiper-button-prev,
+    .swiper-button-next {
+        display: block;
+    }
+}
+
+.swiper-button-prev.swiper-button-disabled,
+.swiper-button-next.swiper-button-disabled {
+    opacity: 0.35;
+    cursor: auto;
+    pointer-events: none;
+}
+
+.swiper-button-prev {
+    left: 23px;
+}
+
+.swiper-button-next {
+    right: 3.5%;
+}
+
+/* Pagination Styles */
+.swiper-pagination {
+    display: block;
+    position: absolute;
+    text-align: center;
+    transition: 300ms;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    z-index: 10;
+}
+
+.desktop .swiper-container .swiper-pagination-type-1 {
+    display: inline-block;
+}
+
+.swiper-pagination-type-1 .swiper-pagination-bullet {
+    position: relative;
+    width: 14px;
+    height: 14px;
+    line-height: 14px;
+    background: transparent;
+    border: 2px solid #ffffff;
+    margin: 0 15px;
+    transition: .3s all ease;
+}
+
+.swiper-pagination-type-1 .swiper-pagination-bullet-active, .swiper-pagination-type-1 .swiper-pagination-bullet:hover {
+    transform: scale(1.4);
+    background: #ffffff;
+}
+
+.swiper-pagination.swiper-pagination-hidden {
+    opacity: 0;
+}
+
+.swiper-pagination-bullet {
+    margin-left: 8px;
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    line-height: 8px;
+    border-radius: 50%;
+    background: #ffffff;
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    cursor: pointer;
+}
+
+.swiper-pagination-white .swiper-pagination-bullet {
+    background: #FFF;
+}
+
+.swiper-pagination-bullet-active {
+    background: #42b574;
+}
+
+.swiper-pagination-white .swiper-pagination-bullet-active {
+    background: #FFF;
+}
+
+.swiper-pagination-black .swiper-pagination-bullet-active {
+    background: #000;
+}
+
+.swiper-container-vertical > .swiper-pagination {
+    right: 10px;
+    top: 50%;
+    -webkit-transform: translate3d(0px, -50%, 0);
+    -moz-transform: translate3d(0px, -50%, 0);
+    -o-transform: translate(0px, -50%);
+    -ms-transform: translate3d(0px, -50%, 0);
+    transform: translate3d(0px, -50%, 0);
+}
+
+.swiper-container-vertical > .swiper-pagination .swiper-pagination-bullet {
+    margin: 5px 0;
+    display: block;
+}
+
+.swiper-container-horizontal > .swiper-pagination {
+    bottom: 20px;
+    left: 0;
+    width: 100%;
+}
+
+.swiper-container-horizontal > .swiper-pagination.swiper-pagination-type-1 {
+    bottom: 30px;
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .swiper-container-horizontal > .swiper-pagination.swiper-pagination-type-1 {
+        right: 30px;
+        bottom: 65px;
+        left: auto;
+        width: auto;
+    }
+}
+
+.swiper-container-horizontal > .swiper-pagination.swiper-pagination-type-1 .swiper-pagination-bullet {
+    margin: 0 15px;
+}
+
+.swiper-container-horizontal > .swiper-pagination .swiper-pagination-bullet {
+    margin: 0 5px;
+}
+
+.swiper-slide > .vide__body,
+.swiper-slide > .parallax_cnt {
+    height: 100%;
+}
+
+.swiper-slide {
+    height: 100%;
+    background-position: center;
+}
+
+.swiper-slide .swiper-parallax {
+    height: 100%;
+    white-space: nowrap;
+}
+
+.swiper-slide .swiper-parallax:before {
+    content: '';
+    display: inline-block;
+    height: 50%;
+}
+
+.swiper-slide-caption {
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    white-space: normal;
+    padding: 0 15px;
+}
+
+.swiper-slide-caption h4 {
+    margin-bottom: 0;
+}
+
+@media (min-width: 1200px) {
+    .swiper-slide-caption {
+        padding: 0 80px;
+    }
+}
+
+@media (max-width: 479.98px) {
+    .swiper-slide h1 {
+        font-size: 32px;
+    }
+    .swiper-slide h2 {
+        font-size: 28px;
+    }
+    .swiper-slide h3 {
+        font-size: 24px;
+    }
+    .swiper-slide h4 {
+        font-size: 20px;
+    }
+    .swiper-slide h5 {
+        font-size: 18px;
+    }
+    .swiper-slide .btn, .swiper-slide .pagination-classic > li > a,
+    .swiper-slide .pagination-classic > li > span {
+        font-size: 15px;
+    }
+    .swiper-slide .btn.btn-lg, .swiper-slide .btn-group-lg > .btn, .swiper-slide .pagination-classic > li.btn-group-lg > a,
+    .swiper-slide .pagination-classic > li.btn-group-lg > span, .swiper-slide .pagination-classic > li > a.btn-lg,
+    .swiper-slide .pagination-classic > li > span.btn-lg {
+        padding: 10px 20px;
+    }
+    .swiper-slide .btn.btn-lg.btn-icon .icon, .swiper-slide .btn-group-lg > .btn.btn-icon .icon, .swiper-slide .pagination-classic > li.btn-group-lg > a.btn-icon .icon, .swiper-slide .pagination-classic > li.btn-group-lg > span.btn-icon .icon, .swiper-slide .pagination-classic > li > a.btn-lg.btn-icon .icon, .swiper-slide .pagination-classic > li > span.btn-lg.btn-icon .icon {
+        font-size: 28px;
+    }
+}
+
+@media (min-width: 1920px) {
+    .swiper-slide h1 {
+        font-size: 2.35vw;
+    }
+}
+
+.swiper-slide-overlay-disable:after {
+    display: none;
+}
+
+@media (max-width: 991.98px) {
+    .swiper-slide-overlay-disable {
+        background-position: right center;
+    }
+}
+
+.swiper-button {
+    width: 60px;
+    height: 100px;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 9;
+}
+
+.swiper-button:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.swiper-button:after {
+    position: absolute;
+    top: calc(50% - 1px);
+    width: 30px;
+    height: 2px;
+    background: #FFF;
+    content: '';
+    -webkit-transition: width 0.3s 0.2s;
+    transition: width 0.3s 0.2s;
+    -webkit-backface-visibility: hidden;
+    /* needed because of Chrome bug with prefixed calc */
+    backface-visibility: hidden;
+}
+
+.swiper-button.swiper-button-next {
+    right: 23px;
+}
+
+.swiper-button.swiper-button-next:before {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 8px 0 8px 13px;
+    border-color: transparent transparent transparent #ffffff;
+    right: 0;
+}
+
+.swiper-button.swiper-button-next:after {
+    right: 13px;
+}
+
+.swiper-button.swiper-button-next .preview {
+    right: 40px;
+}
+
+.swiper-button.swiper-button-next .preview:after {
+    content: 'Next';
+    text-align: right;
+    transform: translateX(-125%);
+}
+
+.swiper-button.swiper-button-prev:before {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 8px 13px 8px 0;
+    border-color: transparent #ffffff transparent transparent;
+    left: 0;
+}
+
+.swiper-button.swiper-button-prev:after {
+    left: 13px;
+}
+
+.swiper-button.swiper-button-prev .preview {
+    left: 40px;
+}
+
+.swiper-button.swiper-button-prev .preview:after {
+    content: 'Previous';
+    transform: translateX(125%);
+}
+
+.swiper-button.swiper-button-prev .preview__img {
+    float: left;
+}
+
+.swiper-button.swiper-button-prev .preview__img:first-child {
+    width: 32px;
+    height: 32px;
+}
+
+.swiper-button.swiper-button-prev .preview__img:nth-child(2) {
+    width: 48px;
+    height: 48px;
+}
+
+.swiper-button.swiper-button-prev .preview__img:nth-child(3) {
+    width: 64px;
+    height: 64px;
+}
+
+.swiper-button .preview {
+    position: absolute;
+    top: -25%;
+    display: flex;
+    align-items: flex-end;
+    width: 170px;
+    pointer-events: none;
+}
+
+.swiper-button .preview__img {
+    margin: 0 5px;
+    opacity: 0;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5), 0px -1px 0 rgba(255, 255, 255, 0.5);
+    transition: 0.3s;
+    transform: scale(0.3);
+}
+
+.swiper-button .preview__img:first-child {
+    width: 64px;
+    height: 64px;
+}
+
+.swiper-button .preview__img:nth-child(2) {
+    width: 48px;
+    height: 48px;
+}
+
+.swiper-button .preview__img:nth-child(3) {
+    width: 32px;
+    height: 32px;
+}
+
+[data-x-mode] .swiper-button .preview__img {
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.swiper-button .preview:after {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    margin: 20px 5px 0;
+    width: 100%;
+    color: #FFF;
+    line-height: 1;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 13px;
+    opacity: 0;
+    transition: 0.3s;
+}
+
+.lt-ie10 #nav-multithumb .preview__img {
+    display: none;
+}
+
+.desktop .swiper-button {
+    display: none;
+}
+
+.desktop .swiper-button:hover {
+    width: 200px;
+}
+
+.desktop .swiper-button:hover:after {
+    width: 200px;
+    transition-delay: 0s;
+}
+
+.desktop .swiper-button:hover .preview {
+    pointer-events: auto;
+}
+
+.desktop .swiper-button:hover .preview:after {
+    opacity: 1;
+    transition-delay: 0.2s;
+    transform: translateX(0%);
+}
+
+.desktop .swiper-button:hover .preview__img {
+    opacity: 1;
+    transform: scale(1);
+    -webkit-background-size: cover;
+    background-size: cover;
+    float: left;
+}
+
+.desktop .swiper-button:hover .preview__img:first-child {
+    transition-delay: 0.3s;
+}
+
+.desktop .swiper-button:hover .preview__img:nth-child(2) {
+    transition-delay: 0.35s;
+}
+
+.desktop .swiper-button:hover .preview__img:nth-child(3) {
+    transition-delay: 0.4s;
+}
+
+@media (min-width: 1200px) {
+    .desktop .swiper-button {
+        display: block;
+    }
+    .desktop .swiper-pagination {
+        display: none;
+    }
+}
+
+.mobile .swiper-pagination, .tablet .swiper-pagination {
+    display: block;
+}
+
+.mobile .swiper-button, .tablet .swiper-button {
+    display: none;
+}
+
+.mobile .preview, .tablet .preview {
+    display: none;
+}
+
+/* 3D Container */
+.swiper-container-3d {
+    -webkit-perspective: 1200px;
+    -moz-perspective: 1200px;
+    -o-perspective: 1200px;
+    perspective: 1200px;
+}
+
+.swiper-container-3d .swiper-wrapper,
+.swiper-container-3d .swiper-slide,
+.swiper-container-3d .swiper-slide-shadow-left,
+.swiper-container-3d .swiper-slide-shadow-right,
+.swiper-container-3d .swiper-slide-shadow-top,
+.swiper-container-3d .swiper-slide-shadow-bottom,
+.swiper-container-3d .swiper-cube-shadow {
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+.swiper-container-3d .swiper-slide-shadow-left,
+.swiper-container-3d .swiper-slide-shadow-right,
+.swiper-container-3d .swiper-slide-shadow-top,
+.swiper-container-3d .swiper-slide-shadow-bottom {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 10;
+}
+
+.swiper-container-3d .swiper-slide-shadow-left {
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.5), transparent);
+}
+
+.swiper-container-3d .swiper-slide-shadow-top {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), transparent);
+}
+
+.swiper-container-3d .swiper-slide-shadow-bottom {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), transparent);
+}
+
+/* Coverflow */
+.swiper-container-coverflow .swiper-wrapper {
+    /* Windows 8 IE 10 fix */
+    -ms-perspective: 1200px;
+}
+
+/* Fade */
+.swiper-container-fade.swiper-container-free-mode .swiper-slide {
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
+
+.swiper-container-fade .swiper-slide {
+    pointer-events: none;
+}
+
+.swiper-container-fade .swiper-slide .swiper-slide {
+    pointer-events: none;
+}
+
+.swiper-container-fade .swiper-slide-active,
+.swiper-container-fade .swiper-slide-active .swiper-slide-active {
+    pointer-events: auto;
+}
+
+/* Cube */
+.swiper-container-cube {
+    overflow: visible;
+}
+
+.swiper-container-cube .swiper-slide {
+    pointer-events: none;
+    visibility: hidden;
+    -webkit-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -ms-transform-origin: 0 0;
+    transform-origin: 0 0;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.swiper-container-cube.swiper-container-rtl .swiper-slide {
+    -webkit-transform-origin: 100% 0;
+    -moz-transform-origin: 100% 0;
+    -ms-transform-origin: 100% 0;
+    transform-origin: 100% 0;
+}
+
+.swiper-container-cube .swiper-slide-active,
+.swiper-container-cube .swiper-slide-next,
+.swiper-container-cube .swiper-slide-prev,
+.swiper-container-cube .swiper-slide-next + .swiper-slide {
+    pointer-events: auto;
+    visibility: visible;
+}
+
+.swiper-container-cube .swiper-slide-shadow-top,
+.swiper-container-cube .swiper-slide-shadow-bottom,
+.swiper-container-cube .swiper-slide-shadow-left,
+.swiper-container-cube .swiper-slide-shadow-right {
+    z-index: 0;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.swiper-container-cube .swiper-cube-shadow {
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: 0.6;
+    -webkit-filter: blur(50px);
+    filter: blur(50px);
+    z-index: 0;
+}
+
+/* Scrollbar */
+.swiper-scrollbar {
+    position: relative;
+    -ms-touch-action: none;
+}
+
+.swiper-container-horizontal > .swiper-scrollbar {
+    position: absolute;
+    bottom: 0;
+    z-index: 50;
+    height: 3px;
+    width: 100%;
+}
+
+.swiper-container-vertical > .swiper-scrollbar {
+    position: absolute;
+    right: 3px;
+    top: 1%;
+    z-index: 50;
+    width: 5px;
+    height: 98%;
+}
+
+.swiper-scrollbar-drag {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background: #42b574;
+    left: 0;
+    top: 0;
+}
+
+.swiper-scrollbar-cursor-drag {
+    cursor: move;
+}
+
+/* Preloader */
+.swiper-lazy-preloader {
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -21px;
+    margin-top: -21px;
+    z-index: 10;
+    -webkit-transform-origin: 50%;
+    -moz-transform-origin: 50%;
+    transform-origin: 50%;
+    -webkit-animation: swiper-preloader-spin 1s steps(12, end) infinite;
+    -moz-animation: swiper-preloader-spin 1s steps(12, end) infinite;
+    animation: swiper-preloader-spin 1s steps(12, end) infinite;
+}
+
+.swiper-lazy-preloader:after {
+    display: block;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox%3D'0%200%20120%20120'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20xmlns%3Axlink%3D'http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink'%3E%3Cdefs%3E%3Cline%20id%3D'l'%20x1%3D'60'%20x2%3D'60'%20y1%3D'7'%20y2%3D'27'%20stroke%3D'%236c6c6c'%20stroke-width%3D'11'%20stroke-linecap%3D'round'%2F%3E%3C%2Fdefs%3E%3Cg%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(30%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(60%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(90%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(120%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(150%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.37'%20transform%3D'rotate(180%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.46'%20transform%3D'rotate(210%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.56'%20transform%3D'rotate(240%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.66'%20transform%3D'rotate(270%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.75'%20transform%3D'rotate(300%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.85'%20transform%3D'rotate(330%2060%2C60)'%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+    background-position: 50%;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.swiper-lazy-preloader-white:after {
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox%3D'0%200%20120%20120'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20xmlns%3Axlink%3D'http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink'%3E%3Cdefs%3E%3Cline%20id%3D'l'%20x1%3D'60'%20x2%3D'60'%20y1%3D'7'%20y2%3D'27'%20stroke%3D'%23fff'%20stroke-width%3D'11'%20stroke-linecap%3D'round'%2F%3E%3C%2Fdefs%3E%3Cg%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(30%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(60%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(90%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(120%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(150%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.37'%20transform%3D'rotate(180%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.46'%20transform%3D'rotate(210%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.56'%20transform%3D'rotate(240%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.66'%20transform%3D'rotate(270%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.75'%20transform%3D'rotate(300%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.85'%20transform%3D'rotate(330%2060%2C60)'%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+}
+
+.swiper-with-pagination .swiper-pagination {
+    display: block;
+}
+
+@-webkit-keyframes swiper-preloader-spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes swiper-preloader-spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
